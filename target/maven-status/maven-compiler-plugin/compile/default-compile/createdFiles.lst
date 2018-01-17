@@ -1,0 +1,14 @@
+net/webservicex/package-info.class
+net/webservicex/ObjectFactory.class
+net/webservicex/GetNAICSAndSICCodeDetailsByNAICSDescriptionResponse.class
+net/webservicex/NAICSHttpGet.class
+net/webservicex/GetNAICSAndSICCodeDetailsBySICDescriptionResponse.class
+net/webservicex/GetNAICSAndSICCodeDetailsByNAICSCodeResponse.class
+net/webservicex/GetNAICSAndSICCodeDetailsBySICDescription.class
+net/webservicex/GetNAICSAndSICCodeDetailsByNAICSCode.class
+net/webservicex/GetNAICSAndSICCodeDetailsBySICCodeResponse.class
+net/webservicex/NAICS.class
+net/webservicex/NAICSHttpPost.class
+net/webservicex/GetNAICSAndSICCodeDetailsByNAICSDescription.class
+net/webservicex/NAICSSoap.class
+net/webservicex/GetNAICSAndSICCodeDetailsBySICCode.class
